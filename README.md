@@ -1,6 +1,6 @@
 ## Hey 👋, This is Ritwiz Sinha
 [![Gmail Badge](https://img.shields.io/badge/-ritwizsinha0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ritwizsinha0@gmail.com)](mailto:ritwizsinha0@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-ritwizsinha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritwizsinha/)](https://www.linkedin.com/in/ritwizsinha/) [![Github Badge](https://img.shields.io/badge/-ritwizsinha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ritwizsinha/)](https://www.github.com/ritwizsinha/) <p align='left'>Learning, Creating and Having Fun</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1lgD5zK05ndneLwIZSQghwZHkWV0JZNBL/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-ritwizsinha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritwizsinha/)](https://www.linkedin.com/in/ritwizsinha/) [![Github Badge](https://img.shields.io/badge/-ritwizsinha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ritwizsinha/)](https://www.github.com/ritwizsinha/) <p align='left'>Digging deep down into another rabbit hole 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ritwizsinha alt=ritwizsinha /> </p>
 
