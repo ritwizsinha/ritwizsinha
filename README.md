@@ -6,7 +6,6 @@
 
 I am Ritwiz Sinha, a developer and creator. Constantly thinking of new ideas and bringing them to life.
 
-- 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/file/d/1lgD5zK05ndneLwIZSQghwZHkWV0JZNBL/view?usp=sharing)
 
 ## Some of my Github Stats
