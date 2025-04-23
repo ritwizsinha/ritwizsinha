@@ -7,7 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ritwizsinha alt=ritwizsinha /> </p>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=139EF7&lines=Coding+for+humans+and+machines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=139EF7&lines=Discovering+New+Things+Deeply)](https://git.io/typing-svg)
 
 
 ## Some of my Github Stats
